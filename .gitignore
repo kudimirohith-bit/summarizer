@@ -1,0 +1,70 @@
+# Dependencies
+node_modules/
+*/node_modules/
+node_modules_backend
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.env
+backend/.env
+frontend/.env
+
+# Python & Virtual Environments
+venv/
+.venv/
+env/
+*/venv/
+*/.venv/
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Machine Learning Models and Weights (Download via scripts/download_models.py)
+model-service/models/*
+!model-service/models/.gitkeep
+model-service.zip
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+
+# Build Outputs & Caches
+dist/
+*/dist/
+build/
+*.tsbuildinfo
+
+# Archives
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS & IDE Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Inspection and scratch reports
+verisum_project_inspection.txt

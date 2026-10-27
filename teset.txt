@@ -1,0 +1,39 @@
+# MEDICAL DISCHARGE REPORT
+
+**Hospital:** City Care General Hospital  
+**Report ID:** CCGH-2026-74192  
+**Date of Admission:** 22 October 2026  
+**Date of Discharge:** 25 October 2026  
+
+## 1. Patient Information
+- Patient Name: Vikram Ramesh
+- Age: 56 years
+- Gender: Male
+- Patient ID: PT-90317
+
+## 2. Presenting Complaints
+The patient was admitted with chest discomfort, mild shortness of breath, and fatigue that had persisted for approximately six hours. The patient reported that the discomfort began while walking and improved partially with rest. There was no reported loss of consciousness.
+
+## 3. Medical History
+The patient has a history of hypertension for eight years and type 2 diabetes mellitus for six years. The patient reported taking amlodipine 5 mg daily and metformin 500 mg twice daily as previously prescribed. No known drug allergies were reported.
+
+## 4. Clinical Examination
+On admission, the patient's blood pressure was 148/92 mmHg, heart rate was 96 beats per minute, respiratory rate was 19 breaths per minute, temperature was 36.8°C, and oxygen saturation was 97% on room air. The patient was alert and oriented. Mild discomfort was reported during the initial examination.
+
+## 5. Investigations
+An electrocardiogram (ECG) showed no ST-segment elevation. Initial and repeat troponin measurements were within the laboratory's reference range. A complete blood count showed hemoglobin of 13.6 g/dL, white blood cell count of 8,900 cells/µL, and platelet count of 248,000 cells/µL. Serum creatinine was 1.0 mg/dL, and random blood glucose was 184 mg/dL. No acute abnormality was reported on the chest X-ray.
+
+## 6. Hospital Course
+The patient was monitored in the hospital, and repeat cardiac investigations were performed. No evidence of acute myocardial injury was identified in the reported test results. The chest discomfort subsided during observation. The patient remained clinically stable and did not develop new symptoms during the hospital stay.
+
+## 7. Discharge Assessment
+Chest discomfort of undetermined cause, with no ST-segment elevation and normal reported troponin measurements. A definitive cause of the symptoms was not established in this report. Hypertension and type 2 diabetes mellitus were documented as existing medical conditions.
+
+## 8. Discharge Plan
+The patient was advised to attend follow-up with the treating physician within one week for further assessment and review of blood pressure and glucose control. The patient was instructed to seek urgent medical attention if chest pain recurs, breathing becomes difficult, fainting occurs, or symptoms worsen. Medication management should be reviewed by the treating clinician.
+
+**Treating Physician:** Dr. Nisha Verma (fictional)  
+**Department:** General Medicine  
+**Document Status:** Fictional sample for software testing
+
+**Disclaimer:** This report contains invented patient details and illustrative clinical information. It is not a genuine medical record and must not be used to guide actual diagnosis or treatment.
